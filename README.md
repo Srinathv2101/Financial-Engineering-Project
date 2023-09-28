@@ -1,0 +1,2 @@
+# Financial-Engineering-Project
+This project aims to analyze historical stock data from databases "bsedata1" and "nsedata1" which contain price data of 10 BSE and NSE stocks respectively in the timeframe Jan 2014-Dec 2018. The purpose is to estimate historical volatility, compute Black-Scholes-Merton (BSM) prices for European call and put options, and compare these estimations and computations as the data period is extended backwards. Furthermore, the project entails collecting and organizing data of option prices on the NIFTY index.
